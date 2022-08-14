@@ -11,8 +11,10 @@ body {
 	padding: 30px;
 }
 
-
-h1{
+.titulo-principal{
+	padding-left: 20px;
+}
+.titulo-centralizado{
 	text-align: center;
 
 }
@@ -42,9 +44,7 @@ ul{
 	width: 20%;
 	margin-right: 15%;
 }
-h2{
-	text-align: center;
-}
+
 .imagembeneficios {
 	width: 50%;
 }

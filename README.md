@@ -1,1 +1,2 @@
 # site-barbearia
+# novo layout
